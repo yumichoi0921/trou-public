@@ -1,3 +1,4 @@
+_소스코드는 보안상 공개하지 않았습니다._
 # ✈️ TROU - 여행에 진심을 담다
 
 ![162712868-dae61418-172b-4711-a66a-2f2bb7dca096](https://user-images.githubusercontent.com/89010467/162714151-fba19cdd-b189-4a97-a467-ba5b8f0bf406.png)
@@ -111,7 +112,7 @@
 
 
 
-### 2) 외부 서비스
+### 외부 서비스
 
 * **한국관광공사_국문 관광정보 서비스**
 
@@ -129,6 +130,22 @@
 
 [![162713649-b550962e-b545-4b99-917d-7ce0166bc8ee](https://user-images.githubusercontent.com/89010467/162714155-9069bb01-4180-4260-a60d-796f1726cc35.PNG)](https://youtu.be/VbWFTTE6q3g)
 
+##  시연 시나리오**
+#### 회원가입시 선호 여행지 서택
+![image](https://user-images.githubusercontent.com/80162233/163350459-775e3e95-78c7-4c31-ac8e-dd802f00f654.png)
+
+#### 메인페이지 추천 여행지 화면
+![image](https://user-images.githubusercontent.com/80162233/163350544-c344bfa1-5b0c-4dd1-b7ab-a13b052389b0.png)
+
+#### 여행 계획 세우기 - 우측 추천 여행지, 추천 코스, 좌측 장바구니
+![image](https://user-images.githubusercontent.com/80162233/163350586-337ef9ba-3351-495c-8a79-18a88580c624.png)
+
+#### 최단루트 생성 - 장바구니에 있는 여행지 최단 루트 생성
+![image](https://user-images.githubusercontent.com/80162233/163350643-33f35d74-0ae6-497b-9546-ae92460129a6.png)
+
+#### 여행계획 공유 - 이메일로 공유
+![image](https://user-images.githubusercontent.com/80162233/163350665-20f6270e-059a-4986-a8b6-0ec402c51b2b.png)
+![image](https://user-images.githubusercontent.com/80162233/163350746-7c166ef8-bc6d-43de-a98b-1d390b9b2f38.png)
 
 
 
